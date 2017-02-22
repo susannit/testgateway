@@ -6,6 +6,11 @@
   "repository": "https://github.com/braintree/braintree_express_example",
   "logo": "https://avatars1.githubusercontent.com/u/3453",
   "success_url": "/",
+  "buildpacks": [
+    {
+      "url": "https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-nodejs"
+    }
+  ],
   "env": {
     "BT_ENVIRONMENT": {
       "description": "Run against Braintree sandbox environment",
