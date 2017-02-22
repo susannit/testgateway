@@ -1,5 +1,5 @@
 {
-  "name": "braintree_express_example",
+  "name": "braintree_gateway",
   "version": "0.0.0",
   "private": true,
   "scripts": {
