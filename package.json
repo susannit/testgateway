@@ -1,7 +1,6 @@
 {
   "name": "testbtgateway",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
     "lint": "eslint .",
     "start": "node ./bin/www",
